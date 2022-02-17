@@ -1,0 +1,13 @@
+body{
+    height: 100vh;
+    background-image: linear-gradient(174deg, #21C9FD 0%, #EE21FF 100%);
+    background-repeat: no-repeat;
+}
+
+.button{
+    border-radius: 0.5rem;
+}
+
+.button:hover{
+    border-radius: 0.6rem;
+}
