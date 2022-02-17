@@ -1,3 +1,0 @@
-superuser :  username = root password : root
-user : username = sanket password : sanket@12345
-user : username = monika password : monika@12345
